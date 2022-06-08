@@ -10,9 +10,9 @@ Welcome to your first reading notes file! Reading notes are important because th
 1. **What is HTML in your own words**?
 - When I think about HTML, I think of a lot of different browsers that help make a website.
 2. **How do we start and HTML document**?
-- When you start an html document, you should always start with the DOCUTYPE, and afterwards, use the opening/closing tag <html></html>.
+- When you start an html document, you should always start with the DOCUTYPE, and afterwards, use the opening/closing tag.
 3. **List 5 formatting elements in HTML and thier uses**
-- In html, their is <div> which divides all wording, <h1> that creates headers, <html> which creates the webpage, <ol> that creates an ordered list, and <ul> something that creates an unordered list. 
+- In html, their is div which divides all wording, h1 that creates headers, html which creates the webpage, ol that creates an ordered list, and <ul> something that creates an unordered list. 
 4. **Why do use HTML in your own words**?
 - We use it to communicate to people through a structure to organize and not confuse others of what they're looking at.
 
